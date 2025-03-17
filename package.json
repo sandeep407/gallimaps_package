@@ -1,0 +1,22 @@
+{
+  "name": "gallimap",
+  "version": "1.0.0",
+  "description": "Gallimap is a comprehensive library that provides an easy-to-implement solution for various mapping and geospatial features. It allows developers to seamlessly integrate interactive maps, 360-degree image views, search and autocomplete functionalities, routing, amenities, and other geolocation-based services into their web applications. Whether you're building a location-based service or adding advanced map features to your project, Gallimap streamlines the implementation of these capabilities, enhancing user experiences with rich, interactive, and customizable maps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeep407/gallimaps_package.git"
+  },
+  "keywords": [
+    "gallimaps"
+  ],
+  "author": "sandeep shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeep407/gallimaps_package/issues"
+  },
+  "homepage": "https://github.com/sandeep407/gallimaps_package#readme"
+}
